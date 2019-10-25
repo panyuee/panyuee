@@ -1695,3 +1695,9 @@ git add --all
 git push origin master
 git push -u origin master
 git push -u pan.yue origin master
+git add -A
+git commit -m ""
+git commit -m "remove files""
+git commit -m "remove files"
+git push origin master
+git init
