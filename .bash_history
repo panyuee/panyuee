@@ -1701,3 +1701,20 @@ git commit -m "remove files""
 git commit -m "remove files"
 git push origin master
 git init
+git add .
+git commit -m "First commit"**
+git remote add origin *remote repository git@github.com:panyuee/panyuee.git
+git remote -v
+git push origin master
+echo "# panyuee" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:panyuee/panyuee.git
+git push -u origin master
+git remote add origin git@github.com:panyuee/panyuee.git
+git push -u origin master
+git rm --cached `git ls-files -i --exclude-from=.gitignore` 
+git rm --cached git ls-files -i --exclude-from=.gitignore
+git rm --cached 'git ls-files -i --exclude-from=.gitignore'
+git rm -r --cached . 
