@@ -1,0 +1,5 @@
+[user]
+	name = “pan.yue
+	email = “pan.yue@husky.neu.edu\ngit add --all\ngit commit -mModule01/\ngit push origin master\ngit remote add origin git@github.com:NU-BINF/binf6308-ol-panyuee.git\ncd\ncd\ncd\nexit\ncd ../\ngit config --global user.email “pan.yue@husky.neu.edu
+[core]
+	excludesfile = /home/pan.yue/.gitignore_global
